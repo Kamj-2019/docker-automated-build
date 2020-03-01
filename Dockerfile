@@ -1,2 +1,3 @@
-FROM dockersamples/static-site
-ENV AUTHOR="Author name"
+# FROM dockersamples/static-site
+# ENV AUTHOR="Author name"
+FROM nginx:latest
